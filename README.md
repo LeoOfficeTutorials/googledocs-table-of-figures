@@ -16,4 +16,4 @@ Reopen your document. A newly added menu should be visible. You can now execute 
 
 ## More information and help
 
-Watch my YouTube video (link will follow)
+Watch my YouTube video ([link will follow](https://youtu.be/BeIryEnP6Fk))
